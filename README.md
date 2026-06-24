@@ -32,7 +32,7 @@ The guide helps contractors, infrastructure developers, builders, and road const
 
 [Bitumen Tank Selection Guide for Contractors India 2026](./bitumen-tank-selection-guide-for-contractors-india-2026.pdf)
 
-This guide covers bitumen tank selection, asphalt production planning, wet mix plants, road rollers, and road construction equipment best practices for infrastructure projects in India.`
+This guide covers bitumen tank selection, asphalt production planning, wet mix plants, road rollers, and road construction equipment best practices for infrastructure projects in India.
 
 ## Available Versions of This Guide
 
