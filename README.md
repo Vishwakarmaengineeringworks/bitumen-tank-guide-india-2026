@@ -34,6 +34,12 @@ The guide helps contractors, infrastructure developers, builders, and road const
 
 This guide covers bitumen tank selection, asphalt production planning, wet mix plants, road rollers, and road construction equipment best practices for infrastructure projects in India.
 
+## Official Release
+
+Version 1.0 Release
+
+https://github.com/Vishwakarmaengineeringworks/bitumen-tank-guide-india-2026/releases/tag/v1.0
+
 ## Available Versions of This Guide
 
 This publication is also available on the following platforms:
